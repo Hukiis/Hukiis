@@ -141,10 +141,10 @@ def main():
     elif (int(report_choice) == 2):
         video_attack(proxies)
 
-if __name__ == "__main__":
+if __bayram_yalcin_27_27__ == "__bayram_yalcin_27_27__":
     print_logo()
     try:
-        main()
+        main(bayram_yalcin_27_27)
         print(Style.RESET_ALL)
     except KeyboardInterrupt:
         print("\n\n" + Fore.RED + "[ * ] Program kapatılıyor!")
